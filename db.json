@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Striated heron","category":"Indigo"},
+{"id":2,"name":"Badger, honey","category":"Maroon"},
+{"id":3,"name":"Bald eagle","category":"Goldenrod"},
+{"id":4,"name":"Lion, galapagos sea","category":"Pink"},
+{"id":5,"name":"Lizard, desert spiny","category":"Khaki"},
+{"id":6,"name":"Bustard, stanley","category":"Red"},
+{"id":7,"name":"Toucan, white-throated","category":"Khaki"},
+{"id":8,"name":"Carmine bee-eater","category":"Khaki"},
+{"id":9,"name":"Laughing kookaburra","category":"Teal"},
+{"id":10,"name":"White-eye, cape","category":"Pink"},
+{"id":11,"name":"Mule deer","category":"Teal"},
+{"id":12,"name":"Zebra, plains","category":"Yellow"},
+{"id":13,"name":"Crab (unidentified)","category":"Mauv"},
+{"id":14,"name":"Swan, black","category":"Puce"},
+{"id":15,"name":"Galapagos albatross","category":"Khaki"},
+{"id":16,"name":"Macaque, pig-tailed","category":"Orange"},
+{"id":17,"name":"Common zorro","category":"Mauv"},
+{"id":18,"name":"Common wombat","category":"Mauv"},
+{"id":19,"name":"Indian star tortoise","category":"Orange"},
+{"id":20,"name":"Violet-crested turaco","category":"Goldenrod"}
+]
+}
